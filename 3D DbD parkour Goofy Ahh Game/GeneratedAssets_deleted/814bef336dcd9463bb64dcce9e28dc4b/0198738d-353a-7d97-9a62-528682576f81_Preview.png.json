@@ -1,0 +1,11 @@
+{
+    "asset": "814bef336dcd9463bb64dcce9e28dc4b",
+    "fileName": "0198738d-353a-7d97-9a62-528682576f81_Preview.png",
+    "prompt": "Give me a material that would look good on an farm house",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1024295399,
+    "w3CTraceId": "17430dd3fdca269b46ebe6fc17f1b00e",
+    "refinementMode": "Generation"
+}
